@@ -1,0 +1,8 @@
+site_name: EDP Documentation
+site_url: https://unsw-ceem.github.io/EDP-docs/
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
