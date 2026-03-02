@@ -15,7 +15,7 @@ Everything can be done directly from GitHub. No local installation required.
 
 ---
 
-## 1️⃣ Open the Repository in Codespaces
+##  Open the Repository in Codespaces
 
 1. Go to the GitHub repository.
 2. Click:
@@ -29,19 +29,8 @@ GitHub will:
 
 ---
 
-## 2️⃣ Install MkDocs (First Time Only)
 
-Open the terminal inside Codespaces and run:
-
-```bash
-pip install mkdocs mkdocs-material
-```
-
-If additional plugins are added in the future, install them here as well.
-
----
-
-## 3️⃣ Edit Documentation Content
+## Edit Documentation Content
 
 All documentation files live inside:
 
@@ -56,7 +45,7 @@ Edit any Markdown file and save.
 
 ---
 
-## 4️⃣ Preview the Site (Inside Codespaces)
+##  Preview the Site (Inside Codespaces)
 
 Run:
 
@@ -80,7 +69,7 @@ The preview auto-refreshes when you save files.
 
 ---
 
-## 5️⃣ Commit Your Changes
+##  Commit Your Changes
 
 Once satisfied with edits:
 
@@ -94,7 +83,7 @@ This updates the source files on GitHub.
 
 ---
 
-## 6️⃣ Deploy to GitHub Pages
+##  Deploy to GitHub Pages
 
 To publish the updated site:
 
